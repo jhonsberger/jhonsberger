@@ -11,8 +11,8 @@ I'm a computer science student in grade 11 currently learning python, SQL, and C
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonsberg&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonsberg&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonsberg&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonsberg&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonsberg&theme=gruvbox&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonsberger&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonsberger&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonsberger&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonsberger&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonsberger&theme=gruvbox&utcOffset=8)
