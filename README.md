@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student in grade 11 currently learning Python, SQL, and Java
+I'm a computer science student in grade 12 currently learning Python, SQL, and Java
 
 ![](https://komarev.com/ghpvc/?username=jhonsberg)
 
